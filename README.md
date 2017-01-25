@@ -1,0 +1,2 @@
+this is the update css with js project, third project of js30 
+(upon completion of this project i realized that i didn't actually use a single css variable... might change this at some later time, i'll leave it like this for now)
